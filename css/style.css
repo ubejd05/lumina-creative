@@ -265,6 +265,7 @@ header .main-menu a:hover {
 }
 .contact button {
 	width: 100%;
+	color: var(--dark-color);
 }
 
 @media (max-width: 768px) {
